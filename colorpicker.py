@@ -3,7 +3,6 @@ from tkinter import ttk
 import random
 import time
 
-gameStarted = False
 start_time = time.time()
 best_time = None
 
